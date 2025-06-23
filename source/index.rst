@@ -6,8 +6,7 @@
 Autodesk App Store Entry
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-| Note: This is the Mac OS release of MapBoards Pro.  For the Windows release, click Win64 near the top of the page 
-| (under our logo, where it says OS).
+| Note: This is the Mac OS release of MapBoards Pro.  For the Windows release, click Win64 near the top of the page (under our logo, where it says OS).
 
 | MapBoards Pro is a Autodesk Fusion 360 add-in designed to optimize the arrangement of 3D model parts onto material 
 | boards for efficient manufacturing, particularly with laser cutters, CNC machines, and woodworking. It helps users 
