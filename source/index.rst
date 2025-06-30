@@ -45,11 +45,9 @@ Benefits
 | See detailed product description here `MapBoards Pro Description <https://balunist.github.io/mbp_docs/index.html#>`__
 | See `App Store Installs <https://balunist.github.io/mbp_docs/usage/appstore.html>`__ for help with new or update installs. 
 
-.. note:: MapBoards Pro can be launched using the toolbar icon or from the Create dropdown menu of the design workspace.
-
-Replace note info with the following to match font size...
-
-| MapBoards Pro can be launched using the toolbar icon or from the Create dropdown menu of the design workspace.
+.. note:: 
+   
+   :MapBoards Pro can be launched using the toolbar icon or from the Create dropdown menu of the design workspace.:
 
 General Usage Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
