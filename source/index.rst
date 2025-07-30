@@ -54,8 +54,8 @@ Benefits
 General Usage Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| Review **The Basics** section in the link below an overview of the current available features.
-| Read this user guide before getting started to get the most out of MapBoards Pro.
+| Review **The Basics** section, in the link below, for an overview of the current available features.
+| Reading this user guide before getting started, will help you get the most out of MapBoards Pro.
 
 | `Overview <https://balunist.github.io/mbp_docs/index.html>`__
 
