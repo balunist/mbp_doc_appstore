@@ -40,9 +40,9 @@ Benefits
 | **Improved Accuracy**:
 |   Provides cut lists of components and required materials with precise dimensions minimizing errors in the manufacturing process.
 | **Enhanced Workflow**:
-    Analyzes the components in a model and produces a map of component copies on the required material. The created map can then be exported 
-    to either a Fusion manufacturing model or an external SVG or DXF file. This streamlines the transition from design to manufacturing,
-    making the process more efficient and user-friendly.
+|   Analyzes the components in a model and produces a map of component copies on the required material. The created map can then be exported 
+|   to either a Fusion manufacturing model or an external SVG or DXF file. This streamlines the transition from design to manufacturing,
+|   making the process more efficient and user-friendly.
 
 | See detailed product description here `MapBoards Pro Description <https://balunist.github.io/mbp_docs/index.html#>`__
 | See `App Store Installs <https://balunist.github.io/mbp_docs/usage/appstore.html>`__ for help with new or update installs.
