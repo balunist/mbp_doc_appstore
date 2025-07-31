@@ -26,7 +26,8 @@ exclude_patterns = []
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
-html_theme = "sphinx_rtd_theme"
+html_theme = "classic"
+# html_theme = "sphinx_rtd_theme"
 html_theme_options = {
     "navigation_with_keys": "true",
     "body_max_width": "none",
@@ -39,5 +40,5 @@ html_copy_source = False
 html_use_index = False
 
 html_static_path = ['_static']
-html_css_files = ["custom.css", "hacks.css"]
+html_css_files = ["custom.css"]
 html_show_sphinx = False
