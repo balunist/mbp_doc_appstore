@@ -67,7 +67,7 @@ Begin with your 3D model open in the Fusion 360 Design Workspace:
 - From the Lumber tab, update the Width and Length for each board type to match lumber dimensions available
   or that you plan to acquire
 - Select the radial button on the left side of each board type to include them in the map generation
-- Use the options tab to select your desired Map Output Type, Arrangement Type, Component Spacing, Board Edge, Cut List and other
+- Use the options tab to select your desired Map Output Type, Arrangement Type, Component Spacing, Board Edge, Cut List and others
 - Select OK to run MapBoards Pro to create map using copies of the components in the model
 
 Once complete, the created map will be displayed alongside the design on the XY plane (Z up) (optionally Y up on XZ plane). The map visibility
