@@ -6,6 +6,8 @@
 Autodesk App Store Entry
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
+.. role:: blue-bold
+
 | Note: This is the Mac OS release of MapBoards Pro.  For the Windows release, click Win64 near the top of the page (under our logo, where it says OS).
 
 | MapBoards Pro is a Autodesk Fusion 360 add-in designed to optimize the arrangement of 3D components onto material
@@ -54,10 +56,9 @@ Benefits
 General Usage Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| Review **The Basics** section, in the link below, for an overview of the available features.
-| Reading this user guide before getting started, will help you get the most out of MapBoards Pro.
-
-| `Overview <https://balunist.github.io/mbp_docs/index.html>`__
+| See `The Basics <https://balunist.github.io/mbp_docs2/the_basics/index.html>`__ for an introduction to MapBoards Pro 
+| and an overview of the available features. Reading this user guide before getting started, will help you get the most 
+| out of MapBoards Pro.
 
 | When a project moves from the design phase to the build phase, a material estimate and layout is needed to guide the manufacturing process.
 | MapBoards Pro can help with both.
