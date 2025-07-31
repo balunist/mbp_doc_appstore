@@ -56,9 +56,9 @@ Benefits
 General Usage Instructions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-| See `The Basics <https://balunist.github.io/mbp_docs2/the_basics/index.html>`__ for an introduction to MapBoards Pro 
-| and an overview of the available features. Reading this user guide before getting started, will help you get the most 
-| out of MapBoards Pro.
+See `The Basics <https://balunist.github.io/mbp_docs2/the_basics/index.html>`__ for an introduction to MapBoards Pro 
+and an overview of the available features. Reading this user guide before getting started, will help you get the most 
+out of MapBoards Pro.
 
 | When a project moves from the design phase to the build phase, a material estimate and layout is needed to guide the manufacturing process.
 | MapBoards Pro can help with both.
