@@ -3,8 +3,13 @@
 .. toctree::
    :maxdepth: 2
 
+########################
 Autodesk App Store Entry
-^^^^^^^^^^^^^^^^^^^^^^^^
+########################
+
+Main Entry
+**********
+
 
 .. role:: blue-bold
 
@@ -15,7 +20,7 @@ boards for efficient manufacturing, particularly with laser cutters, CNC machine
 create flat layouts, generate cut lists, and export designs as either SVG or DXF files.
 
 Key Features and Functionality
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+==============================
 
 **Arrangement and Nesting**:
   MapBoards Pro (MBP) automatically arranges copies of components in a 3D model onto one or more boards, optimizing material usage.
@@ -33,7 +38,7 @@ Key Features and Functionality
   MBP seamlessly integrates into Fusion 360, allowing users to work directly within the design and manufacturing environment.
 
 Benefits
-^^^^^^^^
+========
 
 **Time Savings**:
   Automates the process of arranging components, saving significant time compared to manual methods.
@@ -52,7 +57,7 @@ See `App Store Installs <https://balunist.github.io/mbp_docs2/installation/app_s
 .. note:: MapBoards Pro can be launched using the toolbar icon or from the Create dropdown menu of the design workspace.
 
 General Usage Instructions
-^^^^^^^^^^^^^^^^^^^^^^^^^^
+==========================
 
 See `The Basics <https://balunist.github.io/mbp_docs2/the_basics/index.html>`__ for an introduction to MapBoards Pro 
 and an overview of the available features. Reading this user guide before getting started, will help you get the most 
